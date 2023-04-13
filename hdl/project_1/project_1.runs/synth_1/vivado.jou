@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Wed Apr 12 21:36:04 2023
+# Process ID: 23492
+# Current directory: D:/softwares/Codes/hdl/project_1/project_1.runs/synth_1
+# Command line: vivado.exe -log clock24.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source clock24.tcl
+# Log file: D:/softwares/Codes/hdl/project_1/project_1.runs/synth_1/clock24.vds
+# Journal file: D:/softwares/Codes/hdl/project_1/project_1.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source clock24.tcl -notrace
